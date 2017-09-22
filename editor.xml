@@ -1,7 +1,11 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JSX Harmony" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />

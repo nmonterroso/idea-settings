@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="common" type="PLAIN_TEXT" />
-      <mapping pattern="DefaultOptions" type="PLAIN_TEXT" />
-      <mapping pattern="indexNoDeps" type="PLAIN_TEXT" />
-      <mapping pattern="AppBarCommonProps" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Login" type="PLAIN_TEXT" />
+      <mapping pattern="UserActions" type="PLAIN_TEXT" />
+      <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="actions/user" type="PLAIN_TEXT" />
+      <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
+      <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
+      <mapping pattern="models/UserData" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
