@@ -11,6 +11,7 @@
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
       <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
       <mapping pattern="models/UserData" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
