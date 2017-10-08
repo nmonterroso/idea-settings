@@ -4,10 +4,14 @@
       <mapping pattern="Login" type="PLAIN_TEXT" />
       <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="actions/user" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
       <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
       <mapping pattern="models/UserData" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
