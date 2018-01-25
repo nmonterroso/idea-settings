@@ -13,6 +13,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="SelectOption" type="PLAIN_TEXT" />
       <mapping pattern="ResizeAlignmentHelpers" type="PLAIN_TEXT" />
       <mapping pattern="initMediaReference" type="PLAIN_TEXT" />
     </extensionMap>
