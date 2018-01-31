@@ -6,6 +6,7 @@
       <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="WidgetEditSpec" type="PLAIN_TEXT" />
       <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
       <mapping pattern="actions/user" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
