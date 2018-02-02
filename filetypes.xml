@@ -18,6 +18,7 @@
       <mapping pattern="SelectOption" type="PLAIN_TEXT" />
       <mapping pattern="initMediaReference" type="PLAIN_TEXT" />
       <mapping pattern="ResizeAlignmentHelpers" type="PLAIN_TEXT" />
+      <mapping pattern="GridOptions" type="PLAIN_TEXT" />
       <mapping pattern="tableEditSpec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
