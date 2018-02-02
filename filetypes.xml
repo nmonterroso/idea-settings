@@ -21,6 +21,7 @@
       <mapping pattern="ResizeAlignmentHelpers" type="PLAIN_TEXT" />
       <mapping pattern="GridOptions" type="PLAIN_TEXT" />
       <mapping pattern="tableEditSpec" type="PLAIN_TEXT" />
+      <mapping pattern="getNumColsClass" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
