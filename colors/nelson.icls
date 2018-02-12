@@ -4,7 +4,7 @@
     <property name="created">2017-09-22T10:22:22</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-22T10:45:19</property>
+    <property name="modified">2018-02-12T15:14:37</property>
     <property name="originalScheme">nelson_windows</property>
   </metaInfo>
   <font>
@@ -1015,7 +1015,6 @@
     <option name="PHP_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="fff66d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
