@@ -4,6 +4,7 @@
       <mapping ext="jake" type="JavaScript" />
       <mapping pattern="models/UserData" type="PLAIN_TEXT" />
       <mapping pattern=".yarn-version" type="PLAIN_TEXT" />
+      <mapping pattern="MigrationUtils" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
