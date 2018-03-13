@@ -25,6 +25,8 @@
       <mapping pattern="editSpecComponentPropTypes" type="PLAIN_TEXT" />
       <mapping pattern="tableEditSpec" type="PLAIN_TEXT" />
       <mapping pattern="getNumColsClass" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
