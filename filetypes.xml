@@ -4,13 +4,14 @@
       <mapping ext="jake" type="JavaScript" />
       <mapping pattern="models/UserData" type="PLAIN_TEXT" />
       <mapping pattern=".yarn-version" type="PLAIN_TEXT" />
-      <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
+      <mapping pattern="EntityDraftHelper" type="PLAIN_TEXT" />
       <mapping pattern="MigrationUtils" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="WidgetEditSpec" type="PLAIN_TEXT" />
+      <mapping pattern="icons/LogoutIcon" type="PLAIN_TEXT" />
       <mapping pattern="actions/user" type="PLAIN_TEXT" />
       <mapping pattern="CharacterGridEditSpec" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
@@ -27,6 +28,7 @@
       <mapping pattern="getNumColsClass" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
