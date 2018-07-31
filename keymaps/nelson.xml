@@ -191,6 +191,9 @@
   <action id="Macro.save and re-run">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="Macro.shutdown pandora">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
@@ -240,7 +243,6 @@
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction" />
