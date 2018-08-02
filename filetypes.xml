@@ -20,6 +20,7 @@
       <mapping pattern="CharacterGridEditSpec" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
       <mapping pattern="V19_remove-s1e2-s1e3-characters-content" type="PLAIN_TEXT" />
+      <mapping pattern="createDialogParams" type="PLAIN_TEXT" />
       <mapping pattern="Login" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="EntityDraftHelper" type="PLAIN_TEXT" />
