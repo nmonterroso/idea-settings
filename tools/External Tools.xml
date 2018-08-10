@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="stop all java processes" description="stop all java processes" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="killall" />
+      <option name="PARAMETERS" value="java" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
