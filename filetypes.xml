@@ -5,9 +5,11 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="models/UserData" type="PLAIN_TEXT" />
       <mapping pattern=".yarn-version" type="PLAIN_TEXT" />
+      <mapping pattern="EntityDraftHelper" type="PLAIN_TEXT" />
       <mapping pattern="V18_delete-unused-entity-types" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="MigrationUtils" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="BurgerAndFriesIcon" type="PLAIN_TEXT" />
       <mapping pattern="V27_entity-type-default-parent" type="PLAIN_TEXT" />
       <mapping pattern="CommunityEntityTypes" type="PLAIN_TEXT" />
@@ -21,10 +23,8 @@
       <mapping pattern="V19_remove-s1e2-s1e3-characters-content" type="PLAIN_TEXT" />
       <mapping pattern="Login" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="EntityDraftHelper" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="UserActions" type="PLAIN_TEXT" />
       <mapping pattern="SelectOption" type="PLAIN_TEXT" />
       <mapping pattern="editSpecComponentPropTypes" type="PLAIN_TEXT" />
       <mapping pattern="initMediaReference" type="PLAIN_TEXT" />
@@ -33,6 +33,7 @@
       <mapping pattern="GridOptions" type="PLAIN_TEXT" />
       <mapping pattern="tableEditSpec" type="PLAIN_TEXT" />
       <mapping pattern="getNumColsClass" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
